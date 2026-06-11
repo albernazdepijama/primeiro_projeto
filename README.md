@@ -16,7 +16,9 @@ edit<br>
 Github Subir arquivo commitado terminal pc <br>
 git clone<br>
 git status<br>
-git add.<br>
+git add .<br>
 git commit -m (escrever mensagem)<br>
 git push<br>
 git pull<br>
+git config --global user.name ou user.email<br>
+git config credential.helper store
