@@ -14,7 +14,7 @@ mkdir(cria um novo diretorio)<br>
 edit<br>
 
 Github Subir arquivo commitado terminal pc <br>
-git clone<br>
+git clone<br>j
 git status<br>
 git add .<br>
 git commit -m (escrever mensagem)<br>
