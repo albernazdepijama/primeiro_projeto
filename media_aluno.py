@@ -8,7 +8,7 @@ media = (nota1 + nota2 + nota3)/ 3
 
 if media >= 7 :
     print(f"Aluno(a) Aprovado(a) com media {media:.2f}")
-elif media > 3 and media < 7:
+elif media >= 3:
     print(f"Aluno em Recuperação {media:.2f}")
     fez_recuperacao = input("Aluno ja fez a recuperação? s/n: ")
     if fez_recuperacao == "s":
