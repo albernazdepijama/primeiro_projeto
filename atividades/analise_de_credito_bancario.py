@@ -4,7 +4,7 @@ parcela_que_deseja_pagar = float(input("Digite o valor da parcela que deseja pag
 
 taxa_parcela = salario_bruto * 0.3
 
-if taxa_parcela <= parcela_que_deseja_pagar :
+if taxa_parcela <= parcela_que_deseja_paar :
     print("Crédito Recusado! ")
 else:
     print("Crédito Aprovado! ")
